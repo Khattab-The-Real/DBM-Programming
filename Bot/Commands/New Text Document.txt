@@ -1,1 +1,0 @@
-{"name":"test","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"${member} Hello I am a Discord Bot that came from a person called Khattab, he created me\nand I am now here serving for people like you, I am still being developed so I am\nMostly broken.","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}
