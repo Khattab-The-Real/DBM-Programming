@@ -1,0 +1,1 @@
+{"name":"RoleCreated","temp":"Role","event-type":"10","actions":[{"channel":"4","varName":"","message":"New Role (${tempVars(\"Role\")}) Was created!","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}
