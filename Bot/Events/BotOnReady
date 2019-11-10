@@ -1,1 +1,1 @@
-Being worked on!
+{"name":"BotOnReady","temp":"","event-type":"0","actions":[{"status":"0","name":"Set Bot Status"},{"gameName":"Hi! I am Bot","gameLink":"","name":"Set Bot Game"},{"channel":"4","varName":"","message":"I am online! Use some commands!","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}
